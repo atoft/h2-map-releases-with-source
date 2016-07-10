@@ -1,0 +1,7 @@
+  "LightmappedGeneric"
+  {
+  "$basetexture" "pp_ep1_end"
+  "$decal" 1
+  "$decalscale" 0.25
+  "$translucent" 1
+  }
